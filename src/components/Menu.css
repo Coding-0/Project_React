@@ -1,0 +1,15 @@
+.header{
+    color:black;
+    font-weight: bold;
+    font-style: italic;
+    background-color: yellow;
+    height: 60px;
+    width: 270px;
+    align-items: center;
+    margin-left: 420px;
+    margin-top: 40px;
+    margin-bottom: 70px;
+    border-radius: 13px;
+    justify-content: center;
+}
+

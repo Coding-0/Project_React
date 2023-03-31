@@ -1,0 +1,12 @@
+.head{
+    color:rgb(255, 132, 0);
+    margin-top: 25px;
+    font-size: 27px;
+
+}
+.head:hover{
+    color: chartreuse;
+}
+.head span{
+    color:black;
+}
